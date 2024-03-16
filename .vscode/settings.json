@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.lua": "lua"
+    },
+    "lua.diagnostics.enable": true,
+    "lua.format.enable": true,
+    "lua.format.indentWidth": 4,
+    "lua.format.tabWidth": 4,
+    "lua.format.semicolon": "before",
+    "lua.format.quoteStyle": "single",
+    "lua.format.bracketSpacing": true,
+    "lua.format.trailingComma": "none",
+    "lua.format.convertTabsToSpaces": true,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+}
